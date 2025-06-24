@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Club EDH-pwa-cache-v2';
+const CACHE_NAME = 'club-edh-pwa-cache-v2';
 const urlsToCache = [
     '/club-edh/',
     '/club-edh/index.html',
